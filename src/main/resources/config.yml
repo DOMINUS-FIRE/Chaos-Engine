@@ -1,0 +1,6 @@
+# FAIvents config
+
+prefix: '&6[FAIvents]&r '
+
+secret:
+  require_op: false
